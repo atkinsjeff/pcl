@@ -2,4 +2,4 @@
 
 ![](./vignettes/pcl_hex_sticker.PNG)
 
-portable canopy lidar data from North America
+portable canopy lidar data.
