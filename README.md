@@ -1,5 +1,23 @@
 # pcl: portable canopy lidar data for the R programming language
 
-![](./vignettes/pcl_hex_sticker.png)
+![](./data-raw/pcl_hex_sticker.png)
 
-portable canopy lidar data.
+This package contains portable canopy lidar data for 25 sites in North America.
+
+## Installation
+```R
+# Install the development version from GitHub
+devtools::install_github("atkinsjeff/pcl")
+
+```
+
+## Usage
+```R
+# call the package
+library(pcl)
+
+# Then the data can be brought into the environment
+pcl
+```
+
+![](./data-raw/pcl_extent_map.png)

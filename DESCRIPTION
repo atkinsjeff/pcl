@@ -1,11 +1,20 @@
 Package: pcl
-Type: Package
-Title: What the Package Does (Title Case)
+Title: Portable Canopy Lidar Data from 25 North American Sites
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Authors@R: person("Jeff", "Atkins", email = "jwatkins6@vcu.edu", role = c("aut", "cre"))
+Description: This package includes portable LiDAR data from 25 North American sites.
+License: file LICENSE
+Suggests: 
+    testthat,
+    tibble,
+    knitr,
+    ggplot2,
+    sf,
+    rmarkdown
 Encoding: UTF-8
 LazyData: true
+RoxygenNote: 7.1.0
+Roxygen: list(markdown = TRUE)
+VignetteBuilder: knitr
+Depends: 
+    R (>= 2.10)
