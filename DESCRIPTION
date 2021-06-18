@@ -1,11 +1,11 @@
 Package: pcl
-Title: Forest Structural Complexity Data from Portable Canopy Lidar for 25 North American Sites
+Title: Forest Structural Complexity Data for 25 North American Sites
 Version: 0.1.0
 Authors@R: person("Jeff", "Atkins", email = "jwatkins6@vcu.edu", role = c("aut", "cre"))
 Description: A data set of forest structural metrics derived from portable canopy lidar
     data acquired from 2370 transects at 25 sites. This data set includes a 
-    Level 1 data product of forest structual complexity measures calculated from
-    raw lidar point cloud data using version 2.0.2 of `forestr`  
+    Level 1 data product of forest structural complexity measures calculated from
+    raw lidar point cloud data using version 2.0.2 of 'forestr'  
     <https://CRAN.R-project.org/package=forestr>. The use and application of this 
     package is detailed in Atkins et al. (2018) <doi:10.1111/2041-210X.13061>. 
 License: CC BY 4.0
