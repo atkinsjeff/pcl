@@ -2,7 +2,8 @@
 
 ![](./data-raw/pcl_hex_sticker.png)
 
-This package contains portable canopy lidar data for 25 sites in North America.
+This package contains canopy structural complexity data that collected from portable canopy lidar for 25 sites in North America. These data have been processed with
+the forestr package in R. 
 
 ## Installation
 ```R
