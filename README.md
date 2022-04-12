@@ -1,9 +1,9 @@
-# pcl: portable canopy lidar data for the R programming language
+# pcl: canopy structrual complexity data from portable canopy lidar
 
 ![](./data-raw/pcl_hex_sticker.png)
 
-This package contains canopy structural complexity data that collected from portable canopy lidar for 25 sites in North America. These data have been processed with
-the forestr package in R. 
+This package contains canopy structural complexity data collected from portable canopy 
+lidar for 25 sites in North America. These data have been processed with the [forestr](https://cran.r-project.org/web/packages/forestr/index.html) package in R. 
 
 ## Installation
 ```R
