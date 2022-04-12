@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/260939433.svg)](https://zenodo.org/badge/latestdoi/260939433)
 # pcl: canopy structrual complexity data from portable canopy lidar
 
 ![](./data-raw/pcl_hex_sticker.png)
